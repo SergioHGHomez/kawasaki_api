@@ -1,0 +1,28 @@
+{
+  "name": "kawasaki_api",
+  "version": "1.0.0",
+  "description": "api for kawasaki clone web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergioHGHomez/kawasaki_api.git"
+  },
+  "keywords": [
+    "NODE.JS",
+    "EXPRESS",
+    "JAVASCRIPT"
+  ],
+  "author": "SERGIO HG HOMEZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SergioHGHomez/kawasaki_api/issues"
+  },
+  "homepage": "https://github.com/SergioHGHomez/kawasaki_api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
